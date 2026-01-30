@@ -1,4 +1,3 @@
-# news-article-classificationn
 News Article Classification using Machine Learning
 Project Overview
 
